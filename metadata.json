@@ -1,0 +1,6 @@
+{
+  "name": "Axiom-0 Sovereign Mobile & AI Kernel Studio",
+  "description": "First-principles self-modifying AI workbench, custom binary compiler & VM, Git-DAG context engine, compoundable live telemetry matrix, and Android app studio.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
